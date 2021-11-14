@@ -1,0 +1,10 @@
+command:
+	0		sC			Idle (Powersupply off)
+	1		sC			Idle (Powersupply on)
+	2		sC			Position control
+	3		sC, z			Trajectory based control
+	4		sC, z			Home
+	5		z			Release
+	6 		z			Grip
+	10		sC			Enable logging
+	11		sC			Disable logging
